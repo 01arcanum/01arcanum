@@ -1,3 +1,3 @@
-intsert cash for selcet payment type
+insert cash or select payment type
 <!---
 --->
